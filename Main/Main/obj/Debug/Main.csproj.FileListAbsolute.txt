@@ -1,0 +1,14 @@
+C:\Users\andr\source\repos\Main\Main\bin\Debug\Main.exe.config
+C:\Users\andr\source\repos\Main\Main\bin\Debug\Main.exe
+C:\Users\andr\source\repos\Main\Main\bin\Debug\Main.pdb
+C:\Users\andr\source\repos\Main\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\andr\source\repos\Main\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\andr\source\repos\Main\Main\obj\Debug\Main.exe
+C:\Users\andr\source\repos\Main\Main\obj\Debug\Main.pdb
+C:\Compiler\Main\Main\bin\Debug\Main.exe.config
+C:\Compiler\Main\Main\bin\Debug\Main.exe
+C:\Compiler\Main\Main\bin\Debug\Main.pdb
+C:\Compiler\Main\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Compiler\Main\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Compiler\Main\Main\obj\Debug\Main.exe
+C:\Compiler\Main\Main\obj\Debug\Main.pdb
