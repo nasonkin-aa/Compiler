@@ -51,6 +51,10 @@ namespace Main
         {
             return (text == "//");
         }
+        public static bool Semicolon(string text)
+        {
+            return (text == ";");
+        }
 
 
     }
